@@ -142,7 +142,6 @@ footer {
     #section-1-content {
         order: 2;
         margin-top: 10vh;
-
     }
 
     #section-1-image {
@@ -155,7 +154,7 @@ footer {
 
     #section-1 {
         z-index: 2;
-        min-height: 60vh;
+        height: auto;
     }
 
     h1 {
